@@ -1,6 +1,12 @@
 #This is Advance OOP2
 
-a. Classes
+a. Classes      
+
 b. Objects
+
 c. Inheritance
+
+d. Encapsulation
+
+e. Abstraction
 
